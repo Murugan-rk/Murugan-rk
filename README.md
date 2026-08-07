@@ -1,6 +1,6 @@
 <div align="center">
 
-# Murugan R
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2E9EF7&height=180&section=header&text=Murugan%20R&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
 ### AI & Data Science Student · Building practical AI and full-stack projects
 
@@ -120,6 +120,21 @@ An AI-powered nutrition recommendation Android app.
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Murugan-rk&theme=default)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Murugan-rk&layout=compact&theme=default)
+
+</div>
+
+<!-- GitHub contribution snake — animates automatically once the GitHub Action below is set up -->
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/Murugan-rk/Murugan-rk/output/github-contribution-grid-snake.svg)
+
+</div>
+
+## LeetCode Stats
+
+<div align="center">
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/21010?theme=light&font=baloo2&ext=heatmap)](https://leetcode.com/u/21010/)
 
 </div>
 
